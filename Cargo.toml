@@ -8,4 +8,4 @@
 [dependencies]
 
 	"ekke_core" = { path = "../../ekke_core" }
-	"ekke_io"   = { path = "../../ekke_io"  }
+	"ekke_io"   = { path = "../../ekke_io"   }
